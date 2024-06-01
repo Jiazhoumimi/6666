@@ -1,0 +1,3 @@
+[submodule "GIRLAPP"]
+	path = GIRLAPP
+	url = https://github.com/jiazhoumimi/girlapp.git
